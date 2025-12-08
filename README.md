@@ -1,14 +1,14 @@
 [![Version](https://img.shields.io/github/v/release/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/releases/latest)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green?label)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/blob/main/LICENSE-Apache-2.0)
-[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-green?label)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/blob/main/LICENSE-BSD-3-Clause)
-[![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/Test-Examples.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.ci)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green?label=License)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/blob/main/LICENSE-Apache-2.0)
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-green?label=License)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/blob/main/LICENSE-BSD-3-Clause)
 [![MDK-Middleware Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/Test-MDK-Middleware-RefApps.yml?logo=arm&logoColor=0091bd&label=MDK-Middleware%20Build%20Test)](./.ci)
+[![Pack build](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/pack.yml?logo=arm&logoColor=0091bd&label=Build%20pack)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F429ZI_BSP/tree/main/.github/workflows/pack.yml)
 
 # ST_NUCLEO-F429ZI_BSP
 
 This is the development repository for the **STMicroelectronics NUCLEO-F429ZI Board Support Pack (BSP)** - a CMSIS software pack that is designed to work with all compiler toolchains (Arm Compiler, GCC, IAR, LLVM). It is released as [CMSIS software pack](https://www.keil.arm.com/packs/nucleo-f429zi_bsp-keil) and therefore accessible by CMSIS-Pack enabled software development tools.
 
-This BSP uses the generator integration of the [CMSIS-Toolbox to Configure STM32 Devices with CubeMX](https://open-cmsis-pack.github.io/cmsis-toolbox/CubeMX/) that is also supported in µVision 5.40 and higher.
+This BSP uses the generator integration of the [CMSIS-Toolbox to Configure STM32 Devices with CubeMX](https://open-cmsis-pack.github.io/cmsis-toolbox/CubeMX/) that is also supported in ÂµVision 5.40 and higher.
 
 ## Repository top-level structure
 
